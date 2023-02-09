@@ -2,9 +2,7 @@
 
 ## Overview 
 
-The purpose of this code was to create an automated data pipeline that takes in new data, performs the appropriate transformations, and loads the data into existing tables. 
-The data selected for this was movie data from wikipedia. Data included cataggories of eahc movie including (genre, director, release data, revenue, run time, languages, and popularity)
-The end goal was to clean the data to only the information that was desired and load into Postgres database. 
+The purpose of this code was to create an automated data pipeline that takes in new data, performs the appropriate transformations, and loads the data into existing tables. The data selected for this was movie data from wikipedia. Data included categories of each movie including (genre, director, release data, revenue, run time, languages, and popularity) The end goal was to clean the data to only the information that was desired and load into Postgres database
 
 ![This is an image](https://github.com/BrandonCodes95/Movies-ETL-/blob/120a29747ef28b09951f160a9adc13212bf39e3e/Raw%20data%20image.PNG)
 
